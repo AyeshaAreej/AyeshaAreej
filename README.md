@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Ayesha+Areej;AI+Automation+%26+Full-Stack+Developer;Voice+AI+Agent+Builder;MERN+%7C+Next.js+%7C+React+Native;n8n+Certified+Workflow+Professional" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Ayesha+Areej;AI+Automation+%26+FullStack+Developer;Voice+AI+Agent+Builder;MERN+%7C+Next.js+%7C+React+Native;n8n+Certified+Workflow+Professional" alt="Typing SVG" />
 
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-areej-b44834232)
