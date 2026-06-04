@@ -109,39 +109,7 @@ I architect scalable applications and intelligent pipelines that eliminate manua
 - Built an **ERP system for Sun Tech** covering inventory, finance, and HR
 - Developed a **job hunting platform** using MERN stack and Tailwind CSS
 
----
 
-## 📌 Key Client Projects
-
-### ⚙️ Optiwork — AI Workforce Management
-> AI-driven workforce management system with predictive analytics and automated scheduling — reduced inefficiencies by **40%**.  
-`Next.js` `OpenAI`
-
-### 🏢 SUNT — ERP System
-> Tailored ERP for Sun Tech with automated workflows, real-time data tracking, and integrated reporting.  
-`Python` `PostgreSQL` `Docker`
-
-### 🤖 Generate Genie — AI Automation Platform
-> AI-powered automation platform cutting manual effort by **40%** with real-time data integration and custom APIs.  
-`Next.js` `Supabase` `OpenAI`
-
-### 🛡 Docuguardian — Secure Document Management
-> Document management system with advanced encryption, seamless file storage and sharing.  
-`Next.js` `Node.js` `Airtable`
-
-### 💻 Toksta — High-Performance Frontend
-> Intuitive dashboard and fully responsive design for enhanced user engagement across all devices.  
-`React` `Next.js` `Node.js`
-
-### 📱 Food Delivery App
-> Cross-platform mobile app with real-time updates for browsing menus, customizing orders, and managing carts.  
-`React Native` `Tailwind CSS`
-
-### 🚗 CarSupportGuys
-> Car service platform connecting users with expert mechanics in real-time — includes mileage tracking and live chat.  
-`Nuxt.js` `Vue.js`
-
----
 
 ## 🚀 Personal Projects
 
@@ -154,20 +122,6 @@ I architect scalable applications and intelligent pipelines that eliminate manua
 | 🏥 **Hospital Management System** | Desktop app for patient tracking and hospital record management | C# · SQL Server |
 | 🤖 **Ozbot Robot Navigation** | Collision avoidance & pathfinding algorithms for Ozbot Robot | C++ · Robotics · Sensors |
 | 🎥 **Movie Genre Prediction** | NLP-based ML model predicting movie genres from text metadata | Python · ML · NLP |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyeshaAreej&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaAreej&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AyeshaAreej&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
