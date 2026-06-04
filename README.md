@@ -19,7 +19,7 @@
 I architect scalable applications and intelligent pipelines that eliminate manual effort and drive real business efficiency. Currently at **Enumsol**, I've shipped production systems ranging from ERP platforms and mobile apps to AI automation pipelines and conversational voice agents.
 
 - 🎓 **M.S. Computer Science** — NUST | **B.S. Software Engineering** — Sukkur IBA University
-- 🏢 **3+ years** of professional experience across Enumsol, Alta Tech Mark & MayaLogic
+- 🏢 **4+ years** of professional experience across Enumsol, Alta Tech Mark & MayaLogic
 - 🤖 Building **Voice AI Agents** with Retell AI, ElevenLabs, VAPI — integrated with **Jobber, ServiceTitan, HouseCallPro, GoHighLevel**
 - ⚡ **n8n Certified Workflow Professional (2025)** — automating CRM pipelines with n8n, Make & Zapier
 - 🌐 Full-stack: **React, Next.js, Vue.js, Node.js, React Native, FastAPI**
