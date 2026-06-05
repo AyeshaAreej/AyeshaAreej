@@ -118,7 +118,6 @@ I architect scalable applications and intelligent pipelines that eliminate manua
 | 🐦 **BlueJay Event Planner** | Full web + mobile event planning platform | React · React Native · Node.js |
 | 🎬 **Netflix Clone** | Full-stack Netflix replica with auth, movie browsing & responsive UI | MERN · MongoDB · React |
 | 🏥 **Hospital Management System** | Desktop app for patient tracking and hospital record management | C# · SQL Server |
-| 🤖 **Ozbot Robot Navigation** | Collision avoidance & pathfinding algorithms for Ozbot Robot | C++ · Robotics · Sensors |
 | 🎥 **Movie Genre Prediction** | NLP-based ML model predicting movie genres from text metadata | Python · ML · NLP |
 
 ---
